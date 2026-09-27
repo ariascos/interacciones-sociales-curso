@@ -1,0 +1,8 @@
+# Taller 1 - ECON 64597 Modelos de Interacciones Sociales 2026-2
+# Versiones minimas probadas. Los estudiantes deben reemplazar este archivo
+# por el resultado de `pip freeze` en su propio entorno antes de entregar.
+numpy>=1.24
+pandas>=2.0
+networkx>=3.0
+matplotlib>=3.7
+jupyterlab>=4.0
